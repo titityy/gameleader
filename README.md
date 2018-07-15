@@ -15,5 +15,7 @@ As only one can be the best the players will have to compete with each other to 
 Credits
 
 Quakedevil (coding, mapping, documenting)
+
 T.T.I. (mapping, documenting, modelling)
+
 Squirrel (mapping)
