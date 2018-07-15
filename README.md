@@ -8,6 +8,8 @@ In opposition to the solitary gameleader with huge packs of monsters there are t
 As only one can be the best the players will have to compete with each other to win the round. The gameleader tries to stop the players without losing too much of his (or her) valuable cells, gaining cells for each player slain.
 
 
+
+
 --
 
 Credits
